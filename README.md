@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- I am an xperienced mechanical engineer, with a strong background in Building Mechanical Installations, Building Energy Inspections and Mechanical Systems Inspection.
+- Currently working in the Elevator Industry as a Project / Sales Support Engineer.
+- Recently started developing my coding skills through online courses.
+- Obtained my first certificate as a Unity Developer (C#).
+- Reached a junior developer level and I keep learning to gain more experience.
+
+Thanks for visiting!
+
 <!--
 **D3amian/D3amian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
