@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am an xperienced mechanical engineer, with a strong background in Building Mechanical Installations, Building Energy Inspections and Mechanical Systems Inspection.
-- Currently working in the Elevator Industry as a Project / Sales Support Engineer.
+- :factory_worker: Currently working in the Elevator Industry as a Project / Sales Support Engineer.
 - Recently started developing my coding skills through online courses.
 - Obtained my first certificate as a Unity Developer (C#).
 - Reached a junior developer level and I keep learning to gain more experience.
